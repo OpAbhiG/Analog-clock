@@ -1,4 +1,4 @@
 
-# Java_Project
+# Python_Project
 
-This all JAVA Project that ill done in my personal project list
+This is all JAVA Projects that ill done in my personal project list
